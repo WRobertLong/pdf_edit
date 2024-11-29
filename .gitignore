@@ -1,0 +1,8 @@
+# Ignore all PDF files
+*.pdf
+
+# Ignore virtual environment directory
+pdf_edit_env/
+
+# Ignore VS Code settings directory
+.vscode/
